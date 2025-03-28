@@ -8,14 +8,13 @@ I am a seasoned professional who is as passionate about learning as I am about l
 
 - **Learning Enthusiast:** I am obsessed with continuous learning and skill enhancement, both for my personal growth and to drive transformative change in others through mentorship and coaching.
 - **Data Nerd:** I love diving into numbers and the process of data analysis. This passion led me to master Power BI and is now driving my swift adoption of Python for advanced data analytics and generating actionable insights.
-- **Certified Lean Six Sigma Green Belt (CLSSGB)**
-- Proven track record in delivering successful Six Sigma projects
+- **Certified Lean Six Sigma Green Belt (CLSSGB)** with proven track record in delivering successful Six Sigma projects.
 
 ## Professional Background
 
 ### Senior Training Manager (Global Resource) | IGT, Muntinlupa  
 *December 2024 – Present*  
-- Spearheaded global training initiatives that integrate advanced data analytics with Lean Six Sigma strategies.
+- Spearhead global training initiatives that integrate advanced data analytics with Lean Six Sigma strategies.
 - Achieved a **75.2% increase in CSAT** for new hires by redesigning onboarding with daily skill-huddle sessions and facilitator-led discussions.
 - Developed and executed a training intervention program that improved post-training CSAT by 9 percentage points while reducing program variance.
 
@@ -53,8 +52,8 @@ I am a seasoned professional who is as passionate about learning as I am about l
 
 ## Certifications & Professional Development
 
-- **Certified Lean Six Sigma Green Belt (CLSSGB)** (Earned March 2025)
-- **Lean Six Sigma Black Belt Training** (Completed January 2025)
+- **Certified Lean Six Sigma Green Belt (CLSSGB)**
+- **Black Belt Training** (January 2025)
 - **Google Data Analytics Professional Certificate** (June 2023 – July 2024)
 - **Lean Six Sigma Yellow Belt Training** (July 2024)
 - **Microsoft Power BI Desktop for Business Intelligence** (July 2024)
@@ -68,13 +67,14 @@ These credentials, along with my proactive pursuit of learning—evidenced by my
 - **Bachelor of Business Administration (Major in Operations Management)**  
   Lyceum of the Philippines University - Batangas (Graduating July 2025)  
   *(Enrolled in the government's ETEEAP program to further enhance my expertise while continuing professional practice.)*
-
+- **Computer Network Technology**  
+  Academy for Computer Elite Studies (Graduated April 2005)
 
 ## Online Presence
 
 Stay connected and learn more about my professional journey:  
 - [LinkedIn Profile](https://www.linkedin.com/in/josephorcullo)  
-
+- [Facebook Profile](https://www.facebook.com/josh.orcullo)
 
 ---
 
