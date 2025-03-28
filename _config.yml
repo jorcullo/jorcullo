@@ -1,7 +1,7 @@
 # Site settings
 title: "Josh Orcullo"
 description: "A personal website showcasing my projects, blog posts, and professional journey."
-url: "https://jorcullo.github.io/jorcullo" # Replace with your GitHub Pages URL
+url: "https://jorcullo.github.io/jorcullo/" # Replace with your GitHub Pages URL
 baseurl: "" # Leave empty for user/organization pages or set to "/repository-name" for project pages
 
 # Theme settings
@@ -24,23 +24,4 @@ markdown: kramdown
 theme: jekyll-theme-minimal  # This is not used when remote_theme is specified but can be retained for local builds
 plugins_dir: _plugins
 
-# Optional: Customize your navigation links
-nav:
-  - title: "Home"
-    url: "/"
-  - title: "About"
-    url: "/about/"
-  - title: "Projects"
-    url: "/projects/"
-  - title: "Blog"
-    url: "/blog/"
 
-# Optional: Configure your site’s timezone and defaults
-timezone: "Asia/Manila"
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      layout: "post"
-      author: "Josh Orcullo"
