@@ -5,7 +5,7 @@ title: "Josh Orcullo"
 #baseurl: "" # Leave empty for user/organization pages or set to "/repository-name" for project pages
 
 # Theme settings
-remote_theme: "jekyll/minima@1e8a445"
+theme: jekyll-remote-theme
 
 
 # Author details
