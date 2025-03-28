@@ -54,10 +54,10 @@ I am a seasoned professional who is as passionate about learning as I am about l
 
 - **Certified Lean Six Sigma Green Belt (CLSSGB)**
 - **Black Belt Training** (January 2025)
+- **Google Advanced Data Analytics** (March 2025)
 - **Google Data Analytics Professional Certificate** (June 2023 – July 2024)
 - **Lean Six Sigma Yellow Belt Training** (July 2024)
 - **Microsoft Power BI Desktop for Business Intelligence** (July 2024)
-- **Project SPARTA PH: Analytics Manager Year 4 Scholar**
 - **Master Coach – Cohen Brown Sports Coaching for Business** (June 2023)
 
 These credentials, along with my proactive pursuit of learning—evidenced by my enrollment in the government's ETEEAP for my bachelor's degree even as a seasoned professional—underscore my commitment to continuous improvement.
