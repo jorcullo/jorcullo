@@ -1,26 +1,21 @@
 # Site settings
 title: "Josh Orcullo"
-description: "A personal website showcasing my projects, blog posts, and professional journey."
-url: "https://jorcullo.github.io/jorcullo/" # Replace with your GitHub Pages URL
-baseurl: "" # Leave empty for user/organization pages or set to "/repository-name" for project pages
+#description: "A personal website showcasing my projects, blog posts, and professional journey."
+#url: "https://jorcullo.github.io/jorcullo/" # Replace with your GitHub Pages URL
+#baseurl: "" # Leave empty for user/organization pages or set to "/repository-name" for project pages
 
 # Theme settings
 theme: jekyll-theme-minimal
 
 
 # Author details
-author:
-  name: "Josh Orcullo"
-  email: "josh.ocullo@gmail.com"  # Update with your preferred contact email
+#author:
+#  name: "Josh Orcullo"
+#  email: "josh.ocullo@gmail.com"  # Update with your preferred contact email
 
 # Social links (optional)
-social:
-  linkedin: "https://www.linkedin.com/in/josephorcullo"
-  facebook: "https://www.facebook.com/josh.orcullo"
-
-# Build settings
-markdown: kramdown
-theme: jekyll-theme-minimal  # This is not used when remote_theme is specified but can be retained for local builds
-plugins_dir: _plugins
+#social:
+#  linkedin: "https://www.linkedin.com/in/josephorcullo"
+#  facebook: "https://www.facebook.com/josh.orcullo"
 
 
