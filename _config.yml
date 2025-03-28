@@ -1,0 +1,47 @@
+# Site settings
+title: "Josh Orcullo's GitHub Page"
+description: "A personal website showcasing my projects, blog posts, and professional journey."
+url: "https://yourusername.github.io" # Replace with your GitHub Pages URL
+baseurl: "" # Leave empty for user/organization pages or set to "/repository-name" for project pages
+
+# Theme settings
+remote_theme: pages-themes/minimal@v0.2.0
+plugins:
+  - jekyll-remote-theme
+
+# Author details
+author:
+  name: "Josh Orcullo"
+  email: "your-email@example.com"  # Update with your preferred contact email
+
+# Social links (optional)
+social:
+  linkedin: "https://www.linkedin.com/in/josephorcullo"
+  facebook: "https://www.facebook.com/josh.orcullo"
+  twitter: "https://twitter.com/yourhandle"  # Optional: add if applicable
+
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-minimal  # This is not used when remote_theme is specified but can be retained for local builds
+plugins_dir: _plugins
+
+# Optional: Customize your navigation links
+nav:
+  - title: "Home"
+    url: "/"
+  - title: "About"
+    url: "/about/"
+  - title: "Projects"
+    url: "/projects/"
+  - title: "Blog"
+    url: "/blog/"
+
+# Optional: Configure your site’s timezone and defaults
+timezone: "Asia/Manila"
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Josh Orcullo"
