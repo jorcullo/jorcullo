@@ -5,7 +5,7 @@ url: "https://jorcullo.github.io/jorcullo/" # Replace with your GitHub Pages URL
 baseurl: "" # Leave empty for user/organization pages or set to "/repository-name" for project pages
 
 # Theme settings
-remote_theme: pages-themes/minimal@v0.2.0
+theme: jekyll-theme-minimal
 
 
 # Author details
